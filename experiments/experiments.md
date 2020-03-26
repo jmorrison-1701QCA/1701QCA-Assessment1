@@ -5,7 +5,7 @@
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-(Experiment 1.jpg)
+![Image](Experiment 1.jpg)
 
 (Completed Bread Board)
 
@@ -22,7 +22,7 @@ This experiment could be the basis of a real world application such as (insert s
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Experiment 2.jpg)
 
 (Insert a caption here)
 
@@ -39,7 +39,7 @@ This experiment could be the basis of a real world application such as (insert s
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Experiment 3.jpg)
 
 (Insert a caption here)
 
@@ -56,7 +56,7 @@ This experiment could be the basis of a real world application such as (insert s
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Experiment 4.jpg)
 
 (Insert a caption here)
 
@@ -73,7 +73,7 @@ This experiment could be the basis of a real world application such as (insert s
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Experiment 5.jpg)
 
 (Insert a caption here)
 
