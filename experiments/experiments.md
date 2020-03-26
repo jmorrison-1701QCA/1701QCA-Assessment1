@@ -1,25 +1,17 @@
-# Inventor Kit Experiments
+### Dimming an LED using a Potentiometer ###
 
-*Markdown reference: https://guides.github.com/features/mastering-markdown/*
 
-## Instructions ##
-
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
-
-### Experiment name ###
-
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+(Experiment 1.jpg)
 
-(Insert a caption here)
+(Completed Bread Board)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was this
 
 This experiment could be the basis of a real world application such as (insert something here).
 
