@@ -60,9 +60,6 @@ This project is related to mine because (insert reasons here).
 This project is related to mine because (insert reasons here).
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
@@ -76,23 +73,26 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before reading this article i had no idea what microinteractions were, and if i wouldve heard of them i wouldve throught they were some simple code that wouldnt matter if removed. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+What i learnt through this reading is that microinteractions have a big impact on how a webpage or app is reacted to. For example when we set the a twitter password, and the coloured word comes up next to what has been typed, it impacts the way we set our passwords as well as overall security on the site.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I would like to leanr more about the many uses that Microinteractions have, and how to make an effective one.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+This relates to my project because microinteractions are about the small details in the code and how it effects the user. A small deatil in the code i created for this product was that the fan turns on and off a certain temperature points so that the fan istnt running when it is already cool.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before reading this article i had the misconception that developers and designers were to very different fields of work. One physical and one technical. This article challenges this veiw as it explained the need for designers to be able to develop code as this opens a new avenue of projects to be created.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+I learned throughout this reading that at time you can have enormious amounts of success and fail on the tiny things, as well as that its alright to be nerveous to try a prototype out, sometimes you just have to give it a shot. Scott Sullivan likened it as getting punched in the face once it happens once it not so bad anymore. Once you've tried something ot not as hard to try it again.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+Another thing i learned is that the protyping phase of development isnt as instaneous i once thought, instead i realised that many different prototypes are required before the designer can reach a final product, but even then it can usually be further developed.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+I would like to learn more about the online tools Processing and Arduino. I want to know about these programs as i hadnt realised there was programs that were inetercative that helped leanr to code. I'm also interested in how they work to teach coding.
+
+
+This is similar to my project as i had never prototyped or coded before. I was nerveous about hopw it was going to happen. But throughout the process after i had failed i leanrt and got better and wasnt nerveous anymore. I also found it similar as i found myself going through multiple stages of prototyping.
 
 
 ## Interaction flowchart ##
