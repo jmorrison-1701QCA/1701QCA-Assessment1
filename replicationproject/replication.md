@@ -64,6 +64,8 @@ Out of the ideas presented I found that the temperature gauge most intersting an
 
 From there i looked at how i want the gauge to be used and presented. It had to be portable and multifunctional where possible as well a suitable size so that it could contain the micro:bit and wires without appearing messy.
 
+I also wanted it to be a suitable shape and colour so that it could have a modern contempary style
+
 ##### Souce for Temperature Gauge #####
 https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-a601cc
 
