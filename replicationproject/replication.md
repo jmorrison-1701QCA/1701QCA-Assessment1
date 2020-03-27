@@ -53,12 +53,25 @@ This project is related to mine because (insert reasons here).
 
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](Interaction Flow Chart.jpg)
 
-## Process documentation
+## Process documentation ##
 
+### Concept ###
+
+
+https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-a601cc
+
+### Stage 1: Research ###
+
+### Stage 2: Coding ###
+
+### Stage 3: Building ###
+
+### Stage 4: Intergration ###
+
+The 
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
 
 *This should have quite a lot of information!*
@@ -71,17 +84,15 @@ This project is related to mine because (insert reasons here).
 
 ## Project outcome ##
 
-*Complete the following information.*
 
-### Project title ###
+### Temperature Gauge with Fan ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+A temperature gauge that has been designed into a portable and multifunctional box that also includes a fan that turns on when above 24°vCelcius and off once it drops down past 25° Celcius.
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
 ![Image](missingimage.png)
 
