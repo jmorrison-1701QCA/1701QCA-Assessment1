@@ -104,7 +104,12 @@ A temperature gauge that has been designed into a portable and multifunctional b
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+In this project the parts that were most successful was the abling the fan to turn on an doff when certain temperatures were reached. Another aspect that performed well was the visualisation of thge temperature on the BBC Micro:Bit. I found that while coding for this project I understood it fairly well. When challenges were presented i was able to successfully look back at past work and experiments performed and deduce what was wrong and how to fix it. One situation was that the fan was not turning off after it has reached the desired temperature. I was able to deduce from Experiment 4 that i had not put in the code that makes it turn off.
+
+One component that couldve been greatly improved was the overall design of the box, and the readings on the gauge. Upon researching and preparing all the equipmnet i failed to factor in that the motor doeshave have a long shaft and as such the project board i had used for the box was to thick. As the components had already been glued together i was unable to replace it, so I used a stanley knife and removed the excess board. This created an unsmooth and rough surface on the front of the box. A consequence of this was that the triangles which were cut out were too high and the arrow struggled to clear them without geting caught. This caused the servo motor to become unsequared and spin on an axis thus throwing off the readings.
+
+The most challenging obstacle that occured through this process was that i found that my wires were fraying and therefore my project stopped operating. One in particular was the fan wiring, after some time and a through inspection i found that wires for the red wire for the fan was fraying leaving only the plastic insulation exposed, i therefore had to cut away some of the plastic so that the wiring was exposed once more. I found this particulary challenging baceuse I was inexperienced in how to remove the insulation. I had got some instructions on how to proceed from the Course Convener David Harris. I had to repeat this task multiple times. I was unable to figure out why the wires were fraying so severly.
+
 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
@@ -112,5 +117,8 @@ A temperature gauge that has been designed into a portable and multifunctional b
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
+An extension to this project that may be intersting is that instead of a fan have a buzzer that alerts the operator that something is getting to hot. This idea could be used in the kitchen or with operational equipment. 
 
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+Another idea is that a motorised water sprayer is attached so once again if it get to hot, it starts spraying water at the operator. This could be used as a game istead of a traditional temperature gauge.
+
+
