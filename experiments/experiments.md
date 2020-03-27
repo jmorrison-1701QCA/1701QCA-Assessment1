@@ -77,7 +77,7 @@ This experiment uses a circuit to charge a capacitor to be charged through the P
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was the idea of charging a circuit using a capacitor and some kind of resistor.
+In this experiment, something new to me was or something I learned was the idea of charging a circuit using a capacitor and some kind of resistor. It was interesting
 
 This experiment could be the basis of a real world application such as (insert something here).
 
