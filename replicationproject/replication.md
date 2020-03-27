@@ -46,7 +46,7 @@ Jar Temperature Detector and Cooling Fan
 
 (https://create.arduino.cc/projecthub/kutluhan-aktar/jar-temperature-detector-and-cooling-fan-bc07c4?ref=search&ref_id=motor%20fan&offset=5)
 
-![Image](replication5.jpg)
+![Image](replication 5.jpg)
 
 This project is related to mine as it uses a simialr concept of when the temperature get above a certain threshold the fan will then turn on. This is differnt to mine as when the fan turns on it cools down what was getting to hot, in this case a jar.
 
