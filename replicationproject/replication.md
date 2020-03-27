@@ -12,7 +12,7 @@ Coronavirus Doorbell
 
 ![Image](Replication1.jpg)
 
-This project is related to mine because it uses the concept of reading the temperature and causing a reaction becaus eof the temperature that was read. In this case it will either ring the door bell if the person arriving has no temperature or set off an alarm if they do
+This project is related to mine because it uses the concept of reading the temperature and causing a reaction because of the temperature that was read. In this case, it will either ring the doorbell if the person arriving has no temperature or set off an alarm if they do
 
 ### Related project 2 ###
 Servo-Controlled, Light-Tracking Solar Panel Platform
@@ -21,7 +21,7 @@ Servo-Controlled, Light-Tracking Solar Panel Platform
 
 ![Image](Replication2.jpg)
 
-This project is related to mine because it is that the servo motor move because of an input. The servo motors in the temperature gauge move because of the input it is reciveing from the temeprature, meanwhile in this project the servo moves becaue of the amount of sunlight the solar panels are recieveing. 
+This project is related to mine because the servo motors move because of a similar input. The temperature gauge move because of the input it is receiving from the temperature, meanwhile, in this project, the servo moves because of the amount of sunlight the solar panels are receiving. 
 
 ### Related project 3 ###
 Temperature-controlled RGB LED
@@ -30,7 +30,7 @@ Temperature-controlled RGB LED
 
 ![Image](Replication3.jpg)
 
-This project project uses the temperature reading in a Micro:Bit to control whether the LED is blue or Red. This is simalar to my project as it is using the temperature to determine whether something moves or turns on, in the case LEDs.
+This project uses the temperature reading in a Micro:Bit to control whether the LED is blue or Red. This is similar to my project as it is using the temperature to determine whether something moves or turns on, in the case LEDs.
 
 ### Related project 4 ###
 Switching Using Transistor
@@ -39,7 +39,7 @@ Switching Using Transistor
 
 ![Image](Replication4.jpg)
 
-This project is related to mine as they use the resistor to determin the flow of the current. This case was to turn a light switch on and off istead of a fan which was what is was used for in the temperature gauge project.
+This project is related to mine as they use the resistor to determine the flow of the current. This case was to turn a light switch on and off instead of a fan which was what is was used for in the temperature gauge project.
 
 ### Related project 5 ###
 Jar Temperature Detector and Cooling Fan
@@ -48,7 +48,7 @@ Jar Temperature Detector and Cooling Fan
 
 ![Image](replication 5.jpg)
 
-This project is related to mine as it uses a simialr concept of when the temperature get above a certain threshold the fan will then turn on. This is differnt to mine as when the fan turns on it cools down what was getting to hot, in this case a jar.
+This project is related to mine as it uses a similar concept of when the temperature gets above a certain threshold the fan will then turn on. This is different from mine as to when the fan turns on it cools down what was getting too hot, in this case, a jar.
 
 ### Related project 6 ###
 Temperature and Humidity Indicator
@@ -57,19 +57,19 @@ Temperature and Humidity Indicator
 
 ![Image](Replication6.jpg)
 
-This project is related to mine because this project uses information reacieved from a temperature and humidity sensor and uses this information to turn servo motors to the correct positions.
+This project is related to mine because this project uses information received from a temperature and humidity sensor and uses this information to turn servo motors to the correct positions.
 
 ## Reading reflections ##
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-Before the reading I didnt understand what affordances or signifiers were. I also didn't understand whay certain items were designed as they were.
+Before the reading, I didn't understand what affordances or signifiers were. I also didn't understand why certain items were designed as they were.
 
-I leaned throughout this reading that affordances are the relationship between and person and and physical object and a signfiers are instruction on how to use an object. I learnt that there are differnt typoes of signifyers that go from text to a handle or even what material something is made from.
+I learned throughout this reading that affordances are the relationship between and person and physical object and signifiers are instructions on how to use an object. I learned that there are different types of signifiers that go from text to a handle or even what material something is made from.
 
 I would like to know more about the design process used when figuring out how to make these improvements.
 
-This relates to the project i am working on as it explains how a signifier can be used to tell the person how to interact with object (affordance). 
+This relates to the project I am working on as it explains how a signifier can be used to tell the person how to interact with an object (affordance). 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
@@ -87,7 +87,7 @@ Before reading this article I had the misconception that developers and designer
 
 I learned throughout this reading that at the time you can have enormous amounts of success and fail on the tiny things, as well as that it's alright to be nervous to try a prototype out, sometimes you just have to give it a shot. Scott Sullivan likened it as getting punched in the face once it happens once it not so bad anymore. Once you've tried something or not as hard to try it again.
 
-Another thing I learned is that the prototyping phase of development isn't as instantaneous i once thought, instead I realised that many different prototypes are required before the designer can reach a final product, but even then it can usually be further developed.
+Another thing I learned is that the prototyping phase of development isn't as instantaneous I once thought, instead I realised that many different prototypes are required before the designer can reach a final product, but even then it can usually be further developed.
 
 I would like to learn more about the online tools Processing and Arduino. I want to know about these programs as I hadn't realised programs used interactions to helped learn to code. I'm also interested in how they work to teach coding.
 
@@ -120,7 +120,7 @@ https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-
 
 For the materials, I was using I didn't do much research. Instead, I made a list and went looking through department and craft and stationery stores such as Bunnings and Officeworks trying to find a suitable material to make the box out of. 
 
-I came across a white foam project board, that matched the characteristics i was interested in. I wanted something that wouldn't be destroyed if placed in different environments, and it had to be durable and steady so it wouldn't bend or warp when objects are placed on top of or against the container.
+I came across a white foam project board, that matched the characteristics I was interested in. I wanted something that wouldn't be destroyed if placed in different environments, and it had to be durable and steady so it wouldn't bend or warp when objects are placed on top of or against the container.
 
 I choose a white piece of card for the physical gauge that would be glued down to the front of the box.
 
@@ -210,7 +210,7 @@ One component that could've been greatly improved was the overall design of the 
 The most challenging obstacle that occurred through this process was that I found that my wires were fraying and therefore my project stopped operating. One, in particular, was the fan wiring, after some time and thorough inspection I found that wires for the red wire for the fan were fraying leaving only the plastic insulation exposed, I, therefore, had to cut away some of the plastic so that the wiring was exposed once more. I found this particularly challenging because I was inexperienced in how to remove the insulation. I had got some instructions on how to proceed from the Course Convener David Harris. I had to repeat this task multiple times. I was unable to figure out why the wires were fraying so severely.
 
 
-Appraches I found useful were looking at the code and breaking it down by using the Javascript reader. Ot allowed me to see any errors that oi may have accidently put in. A skill i picked up during this process was cross checking, a si found myself cross checking with previous experiments that had been completed.
+Approaches I found useful were looking at the code and breaking it down by using the Javascript reader. It allowed me to see any errors that oi may have accidentally put in. A skill I picked up during this process was cross-checking, as I found myself cross-checking with previous experiments that had been completed.
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 
 
