@@ -10,7 +10,7 @@ Coronavirus Doorbell
 
 (https://create.arduino.cc/projecthub/roni-bandini/coronavirus-doorbell-114b3f?ref=tag&ref_id=temperature&offset=0)
 
-![Image](missingimage.png)
+![Image](Replication1.jpg)
 
 This project is related to mine because it uses the concept of reading the temperature and causing a reaction becaus eof the temperature that was read. In this case it will either ring the door bell if the person arriving has no temperature or set off an alarm if they do
 
@@ -19,7 +19,7 @@ Servo-Controlled, Light-Tracking Solar Panel Platform
 
 (https://create.arduino.cc/projecthub/mangia/servo-controlled-light-tracking-solar-panel-platform-d29fdc?ref=search&ref_id=servo%20motor&offset=1)
 
-![Image](missingimage.png)
+![Image](Replication2.jpg)
 
 This project is related to mine because it is that the servo motor move because of an input. The servo motors in the temperature gauge move because of the input it is reciveing from the temeprature, meanwhile in this project the servo moves becaue of the amount of sunlight the solar panels are recieveing. 
 
@@ -28,7 +28,7 @@ Temperature-controlled RGB LED
 
 (https://create.arduino.cc/projecthub/ben/temperature-controlled-rgb-led-6c8cdf?ref=search&ref_id=temperature%20projects&offset=11)
 
-![Image](missingimage.png)
+![Image](Replication3.jpg)
 
 This project project uses the temperature reading in a Micro:Bit to control whether the LED is blue or Red. This is simalar to my project as it is using the temperature to determine whether something moves or turns on, in the case LEDs.
 
@@ -37,7 +37,7 @@ Switching Using Transistor
 
 (https://create.arduino.cc/projecthub/SBR/switching-using-transistor-c9114a?ref=search&ref_id=transistor%20projects&offset=2)
 
-![Image](missingimage.png)
+![Image](Replication4.jpg)
 
 This project is related to mine as they use the resistor to determin the flow of the current. This case was to turn a light switch on and off istead of a fan which was what is was used for in the temperature gauge project.
 
@@ -46,7 +46,7 @@ Jar Temperature Detector and Cooling Fan
 
 (https://create.arduino.cc/projecthub/kutluhan-aktar/jar-temperature-detector-and-cooling-fan-bc07c4?ref=search&ref_id=motor%20fan&offset=5)
 
-![Image](missingimage.png)
+![Image](replication5.jpg)
 
 This project is related to mine as it uses a simialr concept of when the temperature get above a certain threshold the fan will then turn on. This is differnt to mine as when the fan turns on it cools down what was getting to hot, in this case a jar.
 
@@ -55,7 +55,7 @@ Temperature and Humidity Indicator
 
 (https://create.arduino.cc/projecthub/whitebank/temperature-and-humidity-indicator-by-arduino-2005a5?ref=search&ref_id=motor%20fan&offset=42)
 
-![Image](missingimage.png)
+![Image](Replication6.jpg)
 
 This project is related to mine because this project uses information reacieved from a temperature and humidity sensor and uses this information to turn servo motors to the correct positions.
 
