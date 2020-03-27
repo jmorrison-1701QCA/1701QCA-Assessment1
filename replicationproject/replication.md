@@ -159,7 +159,7 @@ Originally the Micro:bit wasnt going to be connected to a bread board, but after
 
 An issue found was that the wires connected to the servo motor kept coming lose, thus the servo motor lost power. A solution for was that i tenporary hot glued the three wires together so that they would stay correctly positioned if the container was jostled around.
 
-![Image](Hot glue.jpg)
+![Image](Hotglue.jpg)
 
 It was also found that the wiring for the fan kept fraying away and therefore stopped the fan from opertaing. This was resolved by the stripping the plastic insulation around from around the wire so that more wire was exposed and allowed the fan to keep being operational.
 
@@ -170,7 +170,7 @@ It was also found that the wiring for the fan kept fraying away and therefore st
 
 #### Physical Container ####
 
-![Image](Building Process)
+![Image](Building Process.jpg)
 
 I measured out all the squares and rectangles invloved in the process of making the container using a ruler then cut them out usinhg a Stanley Knife. 
 
