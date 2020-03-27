@@ -97,7 +97,7 @@ This project is related to mine because (insert reasons here).
 
 ## Interaction flowchart ##
 
-![Image](Interaction Flow Chart.jpg)
+![Image](InteractionFlowChart.jpg)
 
 ## Process documentation ##
 
@@ -135,11 +135,11 @@ After that i went to another page and began the coding fo the fan. I used Experi
 
 With both codes working individually i placed them together.
 
-![Image](Code 1.jpg)
+![Image](Code1.jpg)
 
 With this code i found that while the fan was turning on at the desired temperature it wasnt turning off.
 
-![Image](Code 2.jpg)
+![Image](Code2.jpg)
 
 With additional block of code added the fan was turning off but it was later discovered while trying to configure the servo motor to turn in the right direction that the high and low point had to be cahnged so that it turned ant-clockwise instead of clockwise.
 
@@ -163,14 +163,14 @@ An issue found was that the wires connected to the servo motor kept coming lose,
 
 It was also found that the wiring for the fan kept fraying away and therefore stopped the fan from opertaing. This was resolved by the stripping the plastic insulation around from around the wire so that more wire was exposed and allowed the fan to keep being operational.
 
-![Image](Stripping Wire.jpg)
+![Image](StrippingWire.jpg)
 
 ![Image](IMG_1868.jpg)
 (Final wiring for project)
 
 #### Physical Container ####
 
-![Image](Building Process)
+![Image](BuildingProcess)
 
 I measured out all the squares and rectangles invloved in the process of making the container using a ruler then cut them out usinhg a Stanley Knife. 
 
@@ -195,7 +195,7 @@ A temperature gauge that has been designed into a portable and multifunctional b
 
 ### Showcase image ###
 
-![Image](Cover Image.jpg)
+![Image](CoverImage.jpg)
 
 ### Additional view ###
 
