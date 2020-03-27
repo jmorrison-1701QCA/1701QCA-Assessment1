@@ -4,10 +4,53 @@
 ## Replication project choice ##
 Temperature Gauge
 
-## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
-### Related project 1 ###
+### Related Project 1 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 2 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 3 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 4 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 5 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 6 ###
 (Insert name of project)
 
 (Insert URL to project)
@@ -66,7 +109,7 @@ From there i looked at how i want the gauge to be used and presented. It had to 
 
 I also wanted it to be a suitable shape and colour so that it could have a modern contempary style.
 
-![Image] (IMG_1876.jpg)
+![Image](IMG_1876.jpg)
 
 I wanted to originally try differnt shapes but found that it would be too dificult to recreate, i also experiemented with palcement of the fan. Another factor that came in was the accessibility to the micro:bit, was it easily accessed, if i needed to reprogram it or the battery had to be changed. These metigating factor made me come up with a simple Black box that had 3/4 of the top removed and 1/2 of the back removed.
 
@@ -81,7 +124,7 @@ I cam across a white foam project board, that matched the charcateristics i was 
 
 I choose a white piece of card for the physical gauge that would be glued down to the front of box.
 
-![Image] (Equipment.jpg)
+![Image](Equipment.jpg)
 (Equipmemt used in the electronic process)
 
 ### Stage 2: Coding ###
@@ -92,15 +135,15 @@ After that i went to another page and began the coding fo the fan. I used Experi
 
 With both codes working individually i placed them together.
 
-![Image] (Code 1.jpg)
+![Image](Code 1.jpg)
 
 With this code i found that while the fan was turning on at the desired temperature it wasnt turning off.
 
-![Image] (Code 2.jpg)
+![Image](Code 2.jpg)
 
 With additional block of code added the fan was turning off but it was later discovered while trying to configure the servo motor to turn in the right direction that the high and low point had to be cahnged so that it turned ant-clockwise instead of clockwise.
 
-![Image] (Code.jpg) 
+![Image](Code.jpg) 
 
 This is the code that was loaded up into the final presentation.
 
@@ -116,18 +159,18 @@ Originally the Micro:bit wasnt going to be connected to a bread board, but after
 
 An issue found was that the wires connected to the servo motor kept coming lose, thus the servo motor lost power. A solution for was that i tenporary hot glued the three wires together so that they would stay correctly positioned if the container was jostled around.
 
-![Image] (Hotglue.jpg)
+![Image](Hotglue.jpg)
 
 It was also found that the wiring for the fan kept fraying away and therefore stopped the fan from opertaing. This was resolved by the stripping the plastic insulation around from around the wire so that more wire was exposed and allowed the fan to keep being operational.
 
-![Image] (Stripping Wire.jpg)
+![Image](Stripping Wire.jpg)
 
-![Image] (IMG_1868.jpg)
+![Image](IMG_1868.jpg)
 (Final wiring for project)
 
 #### Physical Container ####
 
-![Image] (Building Process)
+![Image](Building Process)
 
 I measured out all the squares and rectangles invloved in the process of making the container using a ruler then cut them out usinhg a Stanley Knife. 
 
