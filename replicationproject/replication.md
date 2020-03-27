@@ -64,31 +64,82 @@ Out of the ideas presented I found that the temperature gauge most intersting an
 
 From there i looked at how i want the gauge to be used and presented. It had to be portable and multifunctional where possible as well a suitable size so that it could contain the micro:bit and wires without appearing messy.
 
-I also wanted it to be a suitable shape and colour so that it could have a modern contempary style
+I also wanted it to be a suitable shape and colour so that it could have a modern contempary style.
+
+![Image] (IMG_1876.jpg)
+
+I wanted to originally try differnt shapes but found that it would be too dificult to recreate, i also experiemented with palcement of the fan. Another factor that came in was the accessibility to the micro:bit, was it easily accessed, if i needed to reprogram it or the battery had to be changed. These metigating factor made me come up with a simple Black box that had 3/4 of the top removed and 1/2 of the back removed.
 
 ##### Souce for Temperature Gauge #####
 https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-a601cc
 
 ### Stage 1: Research ###
 
+For the materials i was using i didn't do much research. Instead i made a list and went looking through department and craft and stationary stores such as Bunnings and Officeworks trying to find a suitable material to make the box out of. 
 
+I cam across a white foam project board, that matched the charcateristics i was interested in. I wanted something that wouldn't be completely destroyed if placed in different environments, and it had to be durable and steady so it wouldnt bend or warp when objects are placeed on top of or against the container.
+
+I choose a white piece of card for the physical gauge that would be glued down to the front of box.
+
+![Image] (Equipment.jpg)
+(Equipmemt used in the electronic process)
 
 ### Stage 2: Coding ###
 
+Originally i just simply copied the code from the site that ahd been supplied and tested if that worked using the digital version of the servo. After i had perfectef that code and got it operational i moved to making the varaiables more suited for the Brisbane environment. I choose to have the gauge run between 20° Celcius and 25° Celcius as those temperatures were the realistic in the environment. 
+
+After that i went to another page and began the coding fo the fan. I used Experiment 4 from the Inventor Kit Tutorial book as aguide on how to code for the fan, just alternating some variabels with temperature.
+
+With both codes working individually i placed them together.
+
+![Image] (Code 1.jpg)
+
+With this code i found that while the fan was turning on at the desired temperature it wasnt turning off.
+
+![Image] (Code 2.jpg)
+
+With additional block of code added the fan was turning off but it was later discovered while trying to configure the servo motor to turn in the right direction that the high and low point had to be cahnged so that it turned ant-clockwise instead of clockwise.
+
+![Image] (Code.jpg) 
+
+This is the code that was loaded up into the final presentation.
+
 ### Stage 3: Building ###
 
-### Stage 4: Intergration ###
+#### Electronical Wiring ####
 
-The 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+To help in the wiring for the servo motor a website was supplied to show how the servo motor was to be connected to the micro:bit and where each wire had to be palced.
 
-*This should have quite a lot of information!*
+This information was sourced from: https://support.microbit.org/support/solutions/articles/19000101864-using-a-servo-with-the-micro-bit
 
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+Originally the Micro:bit wasnt going to be connected to a bread board, but after deliberation and thought it was decided that it would be easier and work better if all the component were connected via a bread board.
 
-![Image](missingimage.png)
+An issue found was that the wires connected to the servo motor kept coming lose, thus the servo motor lost power. A solution for was that i tenporary hot glued the three wires together so that they would stay correctly positioned if the container was jostled around.
 
-*Include screenshots of the code you have used.*
+![Image] (Hotglue.jpg)
+
+It was also found that the wiring for the fan kept fraying away and therefore stopped the fan from opertaing. This was resolved by the stripping the plastic insulation around from around the wire so that more wire was exposed and allowed the fan to keep being operational.
+
+![Image] (Stripping Wire.jpg)
+
+![Image] (IMG_1868.jpg)
+(Final wiring for project)
+
+#### Physical Container ####
+
+![Image] (Building Process)
+
+I measured out all the squares and rectangles invloved in the process of making the container using a ruler then cut them out usinhg a Stanley Knife. 
+
+These pieces were then hot glued together till the container formed. After this process the box was painted with two coats of black spray paint.
+
+
+### Stage 4: Intergration ### 
+
+Once all components were individually completed, the wiring was placed inside the box. The position where the servo motor would come through was measured so that it was in the middle and a whold was placed using a screw driver. It was at this point that it was discovered that the shaft the servo motor was to short to fit through the foam. Therefore using a stanley knife the excess foam was sahven away so that the servo could proparly connect to the arrow. The front of the container was repainted. 
+
+The wedges that contained the measurements of temperature were added around the arrow. Due to the removal of foam regualr glue no longer worked on the surafce therefore this was substituted for hotglue. This had a consequence that it made the card uneven and made it rise from the box, this cause the arrow to have little clearance nad it sometimes struggled to get over these spots.
+
 
 ## Project outcome ##
 
@@ -101,14 +152,11 @@ A temperature gauge that has been designed into a portable and multifunctional b
 
 ### Showcase image ###
 
-
-![Image](missingimage.png)
+![Image](Cover Image.jpg)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Image](Otherveiw.jpg)
 
 ### Reflection ###
 
