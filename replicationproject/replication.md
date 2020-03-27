@@ -60,10 +60,16 @@ This project is related to mine because (insert reasons here).
 
 ### Concept ###
 
+Out of the ideas presented I found that the temperature gauge most intersting and engaging to me. It was due to the fcat that the program had the ability to be used in everyday life, instead of just once or twice. 
 
+From there i looked at how i want the gauge to be used and presented. It had to be portable and multifunctional where possible as well a suitable size so that it could contain the micro:bit and wires without appearing messy.
+
+##### Souce for Temperature Gauge #####
 https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-a601cc
 
 ### Stage 1: Research ###
+
+
 
 ### Stage 2: Coding ###
 
