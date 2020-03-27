@@ -97,7 +97,7 @@ This project is related to mine because (insert reasons here).
 
 ## Interaction flowchart ##
 
-![Image](InteractionFlowChart.jpg)
+![Image](Interaction Flow Chart.jpg)
 
 ## Process documentation ##
 
@@ -135,7 +135,7 @@ After that i went to another page and began the coding fo the fan. I used Experi
 
 With both codes working individually i placed them together.
 
-![Image](Code1.jpg)
+![Image](Code 1.jpg)
 
 With this code i found that while the fan was turning on at the desired temperature it wasnt turning off.
 
@@ -159,18 +159,18 @@ Originally the Micro:bit wasnt going to be connected to a bread board, but after
 
 An issue found was that the wires connected to the servo motor kept coming lose, thus the servo motor lost power. A solution for was that i tenporary hot glued the three wires together so that they would stay correctly positioned if the container was jostled around.
 
-![Image](Hotglue.jpg)
+![Image](Hot glue.jpg)
 
 It was also found that the wiring for the fan kept fraying away and therefore stopped the fan from opertaing. This was resolved by the stripping the plastic insulation around from around the wire so that more wire was exposed and allowed the fan to keep being operational.
 
-![Image](StrippingWire.jpg)
+![Image](Stripping Wire.jpg)
 
 ![Image](IMG_1868.jpg)
 (Final wiring for project)
 
 #### Physical Container ####
 
-![Image](BuildingProcess)
+![Image](Building Process)
 
 I measured out all the squares and rectangles invloved in the process of making the container using a ruler then cut them out usinhg a Stanley Knife. 
 
@@ -195,7 +195,7 @@ A temperature gauge that has been designed into a portable and multifunctional b
 
 ### Showcase image ###
 
-![Image](CoverImage.jpg)
+![Image](Cover Image.jpg)
 
 ### Additional view ###
 
